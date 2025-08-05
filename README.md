@@ -1,4 +1,4 @@
-# Software-Packages-and-RPMa
+# Software-Packages-and-RPM
 📦 RPM nədir?
 RPM (RPM Package Manager) — Red Hat tərəfindən hazırlanmış proqram təminatını paketləmə və yayma sistemi üçün standartlaşdırılmış formatdır. Bu sistemin əsas üstünlükləri:
 
